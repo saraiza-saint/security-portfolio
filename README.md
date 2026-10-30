@@ -5,7 +5,7 @@ Documented cloud security investigations, built in a live Azure tenant
 
 Target role: SOC Analyst / Security Analyst
 Currently: n/a | n/a
-Contact: saraiza.saint@proton.me · https://www.linkedin.com/in/santiago-araiza-martinez-0a33692a8/
+Contact: saraiza.saint@proton.me · https://www.linkedin.com/in/santiago-araiza-martinez
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
